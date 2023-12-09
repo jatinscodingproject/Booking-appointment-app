@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    /* background-image: url('https://img.freepik.com/free-vector/vibrant-fluid-gradient-background-with-curvy-shapes_1017-32108.jpg'); */
+}
+#main {
+    background-color: rgb(225, 246, 243);
+}
+h1{
+    text-transform: uppercase;
+    color: rgb(145, 145, 181);
+}
+button {
+    background-color: rgb(62, 223, 110);
+    border: 0px;
+    padding: 10px;
+    border-radius: 50px;   
+}
+#lower {
+    background-color: rgb(178, 244, 196);
+}
+input{
+    color: rgb(240, 76, 21);
+    border: 0px;
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(225, 217, 207);
+}
+label{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(221, 43, 43);
+}
